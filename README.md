@@ -6,35 +6,50 @@ support all version
 2. git package installed
 
 3. python installed
-#insttalation guide
+
+# insttalation guide
 copy these command and paste in turmux
 
-*for update and upgrade turmux
+1. for update and upgrade turmux
+
          pkg update && pkg upgrade
-* for install git
-         pkg install git
-*for install python     
+         
+2. for install git
+
+         pkg install git 
+         
+3. for install python     
+
          pkg install python
-*for install log cleaner         
-         git clone 
+         
+4. for install log cleaner    
+
+         git clone https://github.com/bestangle/hack.git
       
       
-      all command run line by line
+      all command run line by line 
+      
+      all file or package are required
       
 # use      
-** for global version commands
+1. for global version commands
+
      cd hack
+     
      bash gl.sh
      
- ** for Korean version command
+ 2. for Korean version command
+ 
        cd hack
+       
        bash kr.sh
        
        
 # error solve
-    ** if you get " permission dennied " error
+    if you get " permission dennied " error
     
     then 
+    
     goto turmux app info and take permission of storage
    
    
