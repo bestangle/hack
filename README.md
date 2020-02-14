@@ -2,10 +2,12 @@
 Pubg log cleaner
 support all version
 # requirment
-1. file support on turmux
-2. git package installed
 
-3. python installed
+turnux app
+
+install turmux from playstore
+
+open aap and run these commands
 
 # insttalation guide
 copy these command and paste in turmux
@@ -34,15 +36,15 @@ copy these command and paste in turmux
 # use      
 1. for global version commands
 
-     cd hack
+            cd hack
      
-     bash gl.sh
+            bash gl.sh
      
  2. for Korean version command
  
-       cd hack
+            cd hack
        
-       bash kr.sh
+            bash kr.sh
        
        
 # error solve
